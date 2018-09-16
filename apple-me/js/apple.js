@@ -36,7 +36,7 @@ $(function () {
 		$(".none_info").css("opacity",0);
 		$(".none_info").css("right",100);
 		$(".icon-cuowu1").css("opacity",0);
-		$(".icon-cuowu1").css("z-index",-1);
+		$(".icon-cuowu1").css("z-index",1);
 	})
 })
 
